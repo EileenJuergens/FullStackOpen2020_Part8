@@ -18,6 +18,7 @@
   "homepage": "https://github.com/EileenJuergens/FullStackOpen2020_Part8#readme",
   "dependencies": {
     "apollo-server": "^3.6.7",
-    "graphql": "^16.3.0"
+    "graphql": "^16.3.0",
+    "uuid": "^8.3.2"
   }
 }
